@@ -1,7 +1,6 @@
 ### Hi My Friend 👋
 
 <p align="center">
-  <img src="https://heavymetalmidis.neocities.org/thanks-4-visiting.GIF" width="300px">
   <br><br>
   <samp>
 I'm Sahil. A Mobile developer from Gujarat, India. I design and develop applications .
